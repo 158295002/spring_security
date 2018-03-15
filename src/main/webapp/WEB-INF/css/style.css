@@ -1,0 +1,26 @@
+.stu{
+    border-style: dotted;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-style: italic;
+    color: #2243d0;
+    align-items: center;
+    margin: 20px;
+}
+.id{
+    padding-bottom: 30px;
+    color: #ec0721;
+}
+.message{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: red;
+    background-color: rgba(255, 255, 0, 0.33);
+}
+.form{
+    padding-top: 10px;
+}
+.showInCenter{
+    /*margin: 0 auto;*/
+    text-align: center;
+}
